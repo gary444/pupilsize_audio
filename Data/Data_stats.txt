@@ -1,0 +1,15 @@
+From provided dataset on moodle:
+
+(including baselines)
+Min = 1.9375
+Max = 6.625
+Avg = 3.38
+
+
+for test dataset (Subject 3, Test 1):
+
+	Mean baseline = 3.520625
+	SD = 0.249465618035726
+	Target = baseline + SD = 3.77009061803573
+
+
